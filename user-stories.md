@@ -4,5 +4,3 @@
 - As a customer, so I know on what chreen my move is displayed, I what to know what screen plays the movie I booked.
 - As a customer, to easily find my tiket, I want to reciev it via email
 - As an admin, to know booking coverage of movies, I wish to know now many seats are available at each sitting.
-- As an admin, to steamline business, I only what a specific movie to be played on one screen at a time.
-- 
